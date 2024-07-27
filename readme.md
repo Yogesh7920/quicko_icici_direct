@@ -6,7 +6,7 @@ Quicko does not current support ICICI direct template. Thus we have to manually 
 
 A python script to automate conversion of icici direct capital gains to quicko template.
 
-**Note only works for Stocks (not MF, bonds, etc)**
+**Note: only works for Stocks (not MF, bonds, etc)**
 
 # How to use
 
